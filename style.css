@@ -56,7 +56,7 @@ img {
 }
 
 .text {
-    font-family: monospace;
+    font-family: hammersmith;
     font-size: 20px;
     white-space: nowrap;
     overflow: hidden;
@@ -92,7 +92,7 @@ img {
         opacity: 1; /* Убедитесь, что текст виден во время анимации */
     }
     to {
-        width: 16ch; /* Конечная ширина текста */
+        width: 12ch; /* Конечная ширина текста */
         opacity: 1; /* Полная видимость текста */
     }
 }
